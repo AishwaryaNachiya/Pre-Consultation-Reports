@@ -10,8 +10,7 @@ This repository contains the final report for my internship at GlobalMedics.AI, 
 
 - **Title**: Final Report on Retrieval-Augmented Generation Model for Healthcare Documentation
 - **Author**: Aishwarya Nachiya Subramanian
-- **Date**: [Submission Date]
-- **Format**: [PDF/Markdown]
+- **Format**: [PDF]
 
 ## Table of Contents
 
