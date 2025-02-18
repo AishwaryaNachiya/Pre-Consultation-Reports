@@ -101,7 +101,7 @@ The following flowchart shows the architecture used for the **medical report ret
 
 The following output shows the **personally identifiable information redaction** process:
 
-![PII Redaction Process](PII_reaction_process.png)
+![PII Redaction Process](PII_redaction_process.png)
 
 ---
 
