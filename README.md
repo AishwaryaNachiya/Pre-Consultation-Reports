@@ -171,11 +171,7 @@ Here is a list of sources and references I consulted during my internship:
 
 To view the final report, download the file from this repository and open it in your preferred document viewer.
 
-For any questions or suggestions, please feel free to reach out to me at **email@example.com**.
+For any questions or suggestions, please feel free to reach out to me at **aishwaryacl3@gmail.com**.
 
 ---
-
-## License
-
-This project is licensed under the [Your License] License - see the LICENSE file for details.
 
