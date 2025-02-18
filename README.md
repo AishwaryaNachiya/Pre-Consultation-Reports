@@ -99,7 +99,9 @@ The following flowchart shows the architecture used for the **medical report ret
 ![Medical Report Retrieval Architecture](report_retrieval_flowchart_image.png)
 4. **Data Privacy Compliance Tools:** A Python script for automating the removal of personally identifiable information (PII) from medical documents.
 
-These samples illustrate the hands-on work I did and the solutions I developed during my time at GlobalMedics.AI.
+The following output shows the **personally identifiable information redaction** process:
+
+![PII Redaction Process](PII_reaction_process.png)
 
 ---
 
